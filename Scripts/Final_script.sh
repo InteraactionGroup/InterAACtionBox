@@ -140,5 +140,5 @@ echo "yes" > /etc/skel/.config/gnome-initial-setup-done
 # /********************************************************************************/
 # /* ICONS
 cd /usr/share/icons/
-mkdir interaaction
-cp ~/Ressources/icons/* /usr/share/icons/interaaction
+mkdir interaactionBox
+cp ~/Ressources/icons/* /usr/share/icons/interaactionBox
